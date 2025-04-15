@@ -1,0 +1,32 @@
+{
+  "name": "indonesia-tourism-website",
+  "version": "1.0.0",
+  "description": "A website showcasing tourist information for each of Indonesia's 34 provinces.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+    "react-router-dom": "^5.2.0",
+    "axios": "^0.21.1",
+    "bootstrap": "^5.1.3"
+  },
+  "devDependencies": {
+    "webpack": "^5.58.2",
+    "webpack-cli": "^4.9.1"
+  },
+  "keywords": [
+    "tourism",
+    "Indonesia",
+    "react",
+    "website"
+  ],
+  "author": "Aksara Team",
+  "license": "MIT"
+}
